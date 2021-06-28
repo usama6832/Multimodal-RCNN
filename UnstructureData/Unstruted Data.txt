@@ -1,2 +1,7 @@
 Unstrutured clinical notes are collected from A-grade central hospital in Wuhan, China. 
 Unstrutured Data consists of 706 medical records of chronic disease patient, that is confidential, will be availble only on request if permission is granted from the hospital. 
+
+Unstrutured Dataset Statistics
+Train data: N(docs):606, words:699053
+Test data: N(docs):100, words:116020
+Dev data: N(docs):100, words:116020
